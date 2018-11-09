@@ -1,13 +1,10 @@
 .jumbotron{
     font-family: cursive;
-    color: red;
-    background-color: black;
+    color:orange;
+    background-color:hotpink;
 }
 
 body{
-    background-color: black;
+    background-color:black;
 }
 
-tipAmount{
-    font-size: 100%;
-}
